@@ -1,2 +1,4 @@
 # html-for-hacktoberfest
-Doing justice to long-forgotten HTML
+Let's build a website together and have fun!
+
+Accepted for hacktoberfest btw :))
